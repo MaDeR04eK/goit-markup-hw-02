@@ -81,7 +81,7 @@ color: #404bbf;
     background-color: #404BBF;
 }
 
-.section-two{
+.goals{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -93,4 +93,21 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.section-three{
+    background-color: #F4F4FD;
+}
+
+.our-team{
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.developers{
+    background-color: #FFFFFF;
 }
