@@ -38,3 +38,18 @@ ul, ol{
 .header-navigation:focus{
     color: #404bbf;
 }
+.contacts-header{
+    font-style: normal;
+}
+.tel-mail{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.tel-mail:hover{
+color: #404bbf;
+}
+.tel-mail:focus{
+    color: #404bbf;
+}
